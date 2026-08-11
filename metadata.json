@@ -1,0 +1,6 @@
+{
+  "name": "Cadastro de Contatos",
+  "description": "Aplicativo completo para gestão e cadastro de contatos integrado ao Supabase com suporte a busca, agrupamento, foto, exportação e modo offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
